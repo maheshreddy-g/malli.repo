@@ -1,2 +1,2 @@
-# malli.repo
+# like-dislike-counter
 Created with CodeSandbox
